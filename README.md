@@ -2,7 +2,6 @@
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na **FIAP**
 - 📧 Contato: [davicavalcantijorge@gmail.com](mailto:davicavalcantijorge@gmail.com)
-- 😄 Pronomes: ele/dele
 - ⚡ Curiosidades: apaixonado por futebol, games e academia
 
 Tenho grande interesse em ingressar na área de análise de dados, onde pretendo desenvolver ainda mais minhas habilidades.  
